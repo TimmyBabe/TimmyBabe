@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TimmyBabe
+- 👀 I’m interested in math.
+- 🌱 I’m currently learning GitHub.
+- ⚡ Fun fact: I study.
